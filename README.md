@@ -17,7 +17,7 @@ The dataset consists of:
 - Customer Segmentation Data: Insights from 72,637 loyalty customers, classified by lifestyle stage and spending behavior (premium or mainstream).
 - Store Sales Data: Monthly sales and transaction details for the trial and control stores.
 
-## Key Analyses
+## Key Insights
 - Store Selection: Two stores, Store 77 and Store 86, were selected as trial stores, with closely matched Store 226 and Store 82 as control stores for comparison.
 - Performance Comparison: Key metrics such as total sales, number of customers, and transactions per customer were compared between trial and control stores over a defined period.
 - Sales Impact: The trial stores showed significant improvement, with Store 77 achieving a 7.47% increase in sales compared to its control store.
